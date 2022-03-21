@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lmpaul, a passionate Full Stack Web Developper
-- 👀 I’m interested in tech and particularly in blockchain and fintech companies!
-- 🌱 I’m currently learning to create aweseome web products at Le Wagon! 
-- 💞️ I’m looking to collaborate on products that make users life's easier. 
+- 👀 I’m interested in tech and particularly in blockchain and fintech! 
 - 📫 Reach me at paul.lemercier05@gmail.com
 
 <h3 align="left">Connect with me:</h3>
